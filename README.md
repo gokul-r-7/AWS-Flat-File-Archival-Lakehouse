@@ -93,8 +93,8 @@ graph TD
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/your-username/mainframe-legacy-archiver.git
-    cd mainframe-legacy-archiver
+    git clone https://github.com/your-username/AWS-Flat-File-Archival-Lakehouse.git
+    cd AWS-Flat-File-Archival-Lakehouse
     ```
 
 2.  **Deploy Infrastructure**
