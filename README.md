@@ -1,10 +1,10 @@
-# Mainframe Legacy Archiver & Visualization Platform
+# AWS-Flat-File-Archival-Lakehouse
 
-A modern, cloud-native solution for migrating, archiving, and analyzing historical mainframe data. This platform provides a secure, scalable, and user-friendly interface to move legacy CSV/Excel/Parquet data into a queryable Data Lake on AWS.
+A modern, cloud-native solution for migrating, archiving, and analyzing historical data. This platform provides a secure, scalable, and user-friendly interface to move legacy CSV/Excel/Parquet data into a queryable Data Lake on AWS.
 
 ## 📖 How It Works
 
-Imagine you have a dusty library full of old filing cabinets (your mainframe data). You want to move all those files into a modern, searchable digital cloud storage, but you need to make sure nothing gets lost or corrupted along the way.
+Imagine you have a dusty library full of old filing cabinets. You want to move all those files into a modern, searchable digital cloud storage, but you need to make sure nothing gets lost or corrupted along the way.
 
 Here is what this platform does:
 
